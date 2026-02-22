@@ -8,16 +8,13 @@ Siguiendo el tutorial `https://docs.langchain.com/oss/python/langchain/quickstar
 
 ## Empezando
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba.
+Estas instrucciones permiten obtener una copia del proyecto en funcionamiento en local para desarrollo y prueba.
 
 ### Prerequisitos
-
-
 ```
 - Python 3.10 o mayor
 - OpenAI API Key
 - pip package manager
-
 ```
 
 ### Instalacion
@@ -25,7 +22,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 1. **Clonar el repositorio**
 
 ```
-    git clone 
+    git clone https://github.com/SantiagoSu15/LangChain-Tutorial-.git
 ```
 2. **Crear un entorno virtual**
 
@@ -55,6 +52,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 ```bash
     python agent.py
 ```
+
 
 ## Actividad 
 
