@@ -10,7 +10,7 @@ Siguiendo el tutorial `https://docs.langchain.com/oss/python/langchain/quickstar
 
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba.
 
-### Prerequisites
+### Prerequisitos
 
 
 ```
@@ -76,6 +76,6 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Nota: todo el codigo se hizo en base al tutorial **LangChain LLM Chain**
 
 
-## Authors
+## Autor
 
 * **Santiago Suarez**
